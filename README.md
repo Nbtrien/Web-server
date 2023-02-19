@@ -16,8 +16,8 @@ This app is a simple and full featured web server.
 ## Screenshots
 ### Desktop App
 <div>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w1.png" alt = "" height="270px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w2.png" alt = "" height="270px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w1.png" alt = "" height="280px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w2.png" alt = "" height="280px"/>
 </div>
 <br/>
 
@@ -29,6 +29,6 @@ This app is a simple and full featured web server.
 
 ### Browser
 <div>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w7.png" alt = "" height="220px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w6.png" alt = "" height="220px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w7.png" alt = "" height="210px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w6.png" alt = "" height="210px"/>
 </div>
