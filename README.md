@@ -16,19 +16,19 @@ This app is a simple and full featured web server.
 ## Screenshots
 ### Desktop App
 <div>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w1.png" alt = "" height="300px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w1.png" alt = "" height="200px"/>
   <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/w2.png" alt = "" height="300px"/>
 </div>
 <br/>
 
 <div>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w3.png" alt = "" height="300px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w4.png" alt = "" height="300px"/>
-  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/w5.png" alt = "" height="300px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w3.png" alt = "" height="200px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w4.png" alt = "" height="200px"/>
+  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/w5.png" alt = "" height="200px"/>
 </div>
 
 ### Browser
 <div>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w7.png" alt = "" height="250px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w6.png" alt = "" height="250px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w7.png" alt = "" height="200px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w6.png" alt = "" height="200px"/>
 </div>
