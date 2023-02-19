@@ -16,15 +16,15 @@ This app is a simple and full featured web server.
 ## Screenshots
 ### Desktop App
 <div>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w1.png" alt = "" height="200px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w2.png" alt = "" height="200px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w1.png" alt = "" height="250px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w2.png" alt = "" height="250px"/>
 </div>
 <br/>
 
 <div>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w3.png" alt = "" height="200px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w4.png" alt = "" height="200px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w5.png" alt = "" height="200px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w3.png" alt = "" height="250px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w4.png" alt = "" height="250px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w5.png" alt = "" height="300px"/>
 </div>
 
 ### Browser
