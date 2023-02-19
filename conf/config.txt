@@ -1,0 +1,29 @@
+############################################################################
+#									   #	
+#	       configuration File For AssoWebServ1.5  Web Server           #
+#									   #						
+############################################################################
+
+
+# Directive ServerRoot hold the path of directory publication
+
+ServerRoot F:\AssWebSrv1.5\htdocs
+
+# Directive port contain the listning server number port
+
+Port 8080
+
+# Directive welcome used to contain the welcome page
+
+Welcome index.htm
+
+# Directive Icons contain the virtual directory name ,in wich Server icons are located  
+
+Icons /icons/
+
+# Directive LogFile indicate the path of server log File
+
+LogFile F:\AssWebSrv1.5\log\log.txt
+
+
+
