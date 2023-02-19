@@ -24,7 +24,7 @@ This app is a simple and full featured web server.
 <div>
   <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w3.png" alt = "" height="200px"/>
   <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w4.png" alt = "" height="200px"/>
-  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w5.png.png" alt = "" height="200px"/>
+  <img src = "https://github.com/Nbtrien/Web-server/blob/main/database/w5.png" alt = "" height="200px"/>
 </div>
 
 ### Browser
